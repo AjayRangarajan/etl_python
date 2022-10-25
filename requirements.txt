@@ -1,0 +1,11 @@
+decorator==5.1.1
+etlalchemy==1.1.1
+pbr==1.10.0
+py==1.4.31
+python-dotenv==0.21.0
+six==1.9.0
+SQLAlchemy==1.0.13
+sqlalchemy-migrate==0.9.7
+SQLAlchemy-Utils==0.30.9
+sqlparse==0.4.3
+Tempita==0.5.2
